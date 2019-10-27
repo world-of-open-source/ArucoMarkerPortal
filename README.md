@@ -61,6 +61,8 @@ Command (with Linux as the working directory):
 
 Many improvements and developments are in the pipeline! To know more, contact on github or syedfarhana.ec18@rvce.edu.in
 
+## Tech Stack ##
+Python 
 
 ## Get in touch ##
 
